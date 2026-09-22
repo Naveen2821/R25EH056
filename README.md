@@ -17,6 +17,7 @@ I am K Naveen Nayak, a B.Tech student specializing in Artificial Intelligence an
 - 2D Graphics Editor using C
 - Smart Parking System using IoT
 - Home Cure – Healthcare Application
+- AI Fake voice cloning detection
 
 ## Education
 
