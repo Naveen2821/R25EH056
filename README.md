@@ -22,3 +22,7 @@ I am K Naveen Nayak, a B.Tech student specializing in Artificial Intelligence an
 
 B.Tech in Artificial Intelligence and Data Science  
 REVA University
+
+## Contact
+
+I am open to learning opportunities, collaborations, internships, and software development projects. You can connect with me through GitHub or reach out to me through my professional networks.
